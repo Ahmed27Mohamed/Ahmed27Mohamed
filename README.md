@@ -42,7 +42,7 @@
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Multiplatform" height="50" />
   </a>  
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5wggXFTVLF0t58SuNrl4mii6x96w0CN3ef84eLfYUDImc4GBwxv-vWGufrmiDhSHXb6_9_PQz_sh8hdbt5oruCKFNxCl2QUdhzzUAZNNQVIiIZzXq58zkwtfohLsOAUqxArZ_XXYw-No/s1600/JetpackCompose_logo.png" alt="Jetpack Compose" height="50" />
+    <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack Compose" height="50" />
   </a>  
 
   <!-- Backend -->

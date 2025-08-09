@@ -6,7 +6,12 @@
 <br/>  
 <br/> 
 
-#### <div align="start">Junior Android developer with a keen interest in mobile app development. Less than a 2 years of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
+#### <div align="start">💻 Junior Mobile Developer with 2+ years of experience building scalable, high-performance apps using Kotlin, Java, MVVM, Jetpack Compose, Room, and Firebase. 
+🚀 Skilled in creating clean, maintainable code with a focus on user-centric design. 
+🌍 Experienced in Kotlin Multiplatform (KMP) and Compose Multiplatform (CMP), delivering cross-platform apps for Android, iOS, Web, and Desktop from a single codebase. 
+📱 Published multiple apps on Google Play and Amazon Appstore and contributed to open-source projects on GitHub. 
+📚 Passionate about continuous learning and exploring new technologies.
+</div>  
 
 
 <br/>  

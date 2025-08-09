@@ -37,25 +37,17 @@
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="iOS" height="50" />
   </a>  
 
-  <!-- Cross-Platform -->
+  <!-- Cross-Platform & UI Frameworks -->
   <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank">
-    <img style="margin: 10px" src="https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png" alt="Kotlin Multiplatform" height="50" />
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Multiplatform" height="50" />
   </a>  
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img style="margin: 10px" src="https://developer.android.com/images/brand/Android_Robot.png" alt="Compose Multiplatform" height="50" />
+    <img style="margin: 10px" src="https://developer.android.com/static/images/jetpack/compose-illustration.png" alt="Jetpack Compose" height="50" />
   </a>  
 
-  <!-- Backend & Databases -->
+  <!-- Backend -->
   <a href="https://firebase.google.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-  </a>  
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank">
-    <img style="margin: 10px" src="https://developer.android.com/images/logos/jetpack.png" alt="Room Database" height="50" />
-  </a>  
-
-  <!-- Libraries -->
-  <a href="https://square.github.io/retrofit/" target="_blank">
-    <img style="margin: 10px" src="https://square.github.io/retrofit/images/logo.png" alt="Retrofit" height="50" />
   </a>  
 
 </div>
